@@ -1,5 +1,5 @@
-# teste-php
-teste PHP utilizado em linha de comando
+# php-linha-comando
+Exemplo PHP utilizado em linha de comando.
 
 <hr>
 
